@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="week-6-task-NfoTECH:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>week-6-task-NfoTECH</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="week-6-task-NfoTECH-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="week-6-task-NfoTECH:war exploded" />
+    </root>
+  </artifact>
+</component>
