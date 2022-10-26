@@ -10,7 +10,6 @@ public class Order extends Product{
     }
 
     public Order(int orderId, int uid, int quantity, String date) {
-        super();
         this.orderId = orderId;
         this.uid = uid;
         this.quantity = quantity;
@@ -18,7 +17,6 @@ public class Order extends Product{
     }
 
     public Order(int uid, int quantity, String date) {
-        super();
         this.uid = uid;
         this.quantity = quantity;
         this.date = date;
