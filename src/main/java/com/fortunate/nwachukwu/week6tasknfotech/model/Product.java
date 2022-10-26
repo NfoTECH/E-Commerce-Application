@@ -14,7 +14,6 @@ public class Product {
 
 
     public Product(int id, String name, String category, Double price, int quantity, String image) {
-        super();
         this.id = id;
         this.name = name;
         this.category = category;
